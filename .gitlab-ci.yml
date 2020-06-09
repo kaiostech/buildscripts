@@ -1,0 +1,13 @@
+image: node:8
+
+before_script:
+  - yarn install --force
+
+stages:
+  - dummy
+
+tag:
+  stage: dummy
+  script:
+  - node --version
+  - yarn --version
