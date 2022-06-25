@@ -40,7 +40,7 @@
     "json-loader": "0.5.7",
     "mini-css-extract-plugin": "0.6.0",
     "node-dir": "0.1.17",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.7",
     "prettysize": "1.1.0",
     "prompt": "^1.0.0",
     "simple-git": "^1.107.0",
